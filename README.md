@@ -1,6 +1,8 @@
 # Perpustakaan
 Sistem Peminjaman Buku di Perpustakaan
 
+Tampilan Output: 
+![image](https://github.com/Julius-Ulee/Perpustakaan/assets/61336116/e7594599-2317-4ec1-8140-451e79a09879)
 
 1. Pendefinisian Class `Color`:
 
